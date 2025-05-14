@@ -21,7 +21,7 @@ The premier image popup solution for REPL driven development in Clojure
 ## How does it work?
 
 Yuck! It uses `clojure` to call `poopup.main` which uses swing and awt to display the image
-in it's very own JVM.
+in its very own JVM.
 
 ## But why?
 
